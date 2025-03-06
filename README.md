@@ -93,37 +93,37 @@ After developing our primary persona, we refined our user stories:
 ### Application Screenshots
 
 #### 1. Resume Upload Feature
-![Resume Upload Screen](https://user-images.githubusercontent.com/157961406/303304000-c9c9c9a3-c9c3-4c9c-a9c9-c9c9c9a3c9c3.png)
+![Resume Upload Screen](https://raw.githubusercontent.com/ozzy2438/Part-A-Docs/main/images/resume_upload.png)
 
 **Özellik Açıklaması:** Özgeçmiş Yükleme ekranı, kullanıcıların özgeçmiş dosyalarını kolayca yüklemelerine olanak tanır. Arayüz, basit bir sürükle-bırak alanı sağlar ve yükleme durumunu başarılı olduğunda onay ile gösterir. Kullanıcılar daha sonra tek bir tıklama ile özgeçmişlerinin yapay zeka analizini görebilirler.
 
 #### 2. Resume Analysis - Executive Summary
-![Resume Analysis Executive Summary](https://user-images.githubusercontent.com/157961406/303304001-d8d8d8d8-d8d8-d8d8-d8d8-d8d8d8d8d8d8.png)
+![Resume Analysis Executive Summary](https://raw.githubusercontent.com/ozzy2438/Part-A-Docs/main/images/resume_analysis.png)
 
 **Özellik Açıklaması:** Özgeçmiş Analizi ekranı, kullanıcının özgeçmişinin yapay zeka tarafından oluşturulan yönetici özetini sunar. Daha iyi görünürlük için önemli anahtar kelimeler turuncu renkte vurgulanarak, temel nitelikleri, deneyimleri ve becerileri vurgular. Bu, kullanıcılara özgeçmişlerinin potansiyel işverenler tarafından nasıl algılandığına dair hızlı bir genel bakış sağlar.
 
 #### 3. Skills Breakdown and Recommendations
-![Skills Breakdown and Recommendations](https://user-images.githubusercontent.com/157961406/303304002-e3e3e3e3-e3e3-e3e3-e3e3-e3e3e3e3e3e3.png)
+![Skills Breakdown and Recommendations](https://raw.githubusercontent.com/ozzy2438/Part-A-Docs/main/images/skills_breakdown.png)
 
 **Özellik Açıklaması:** Bu bölüm, kullanıcının becerilerinin yeterlilik seviyeleri (İleri, Orta) açıkça belirtilerek detaylı bir dökümünü sunar. Öneriler paneli, nicel başarılar ekleme ve beceri bölümünü belirli teknolojilerle geliştirme gibi özgeçmişi iyileştirmek için uygulanabilir tavsiyeler sunar.
 
 #### 4. Areas of Improvement and Job Matching
-![Areas of Improvement and Job Matching](https://user-images.githubusercontent.com/157961406/303304003-f4f4f4f4-f4f4-f4f4-f4f4-f4f4f4f4f4f4.png)
+![Areas of Improvement and Job Matching](https://raw.githubusercontent.com/ozzy2438/Part-A-Docs/main/images/areas_improvement.png)
 
 **Özellik Açıklaması:** Platform, yazılım çeşitliliği ve sektör deneyimi gibi kullanıcının profilini geliştirebileceği belirli alanları tanımlar. İş Eşleştirme bölümü, yapay zeka analizine dayalı olarak kullanıcının profiline uyan pozisyonları gösterir ve tüm eşleşen pozisyonları görüntüleme veya daha fazla eşleşen iş bulma imkanı sunar.
 
 #### 5. Job Matching Detail View
-![Job Matching Detail View](https://user-images.githubusercontent.com/157961406/303304004-a5a5a5a5-a5a5-a5a5-a5a5-a5a5a5a5a5a5.png)
+![Job Matching Detail View](https://raw.githubusercontent.com/ozzy2438/Part-A-Docs/main/images/job_matching.png)
 
 **Özellik Açıklaması:** İş Eşleştirme Detay Görünümü, kullanıcının özgeçmişine dayalı olarak eşleşen iş pozisyonlarının ayrıntılı bir listesini sunar. Her iş ilanı, pozisyon başlığı, şirket adı ve konum bilgilerini içerir. Kullanıcılar, "Apply&Track" düğmesini kullanarak doğrudan başvurabilir ve başvurularını platformda takip edebilirler. İş açıklamaları, kullanıcının becerileriyle eşleşen anahtar kelimeleri vurgular.
 
 #### 6. Job Application Tracker - Calendar View
-![Job Application Tracker Calendar View](https://user-images.githubusercontent.com/157961406/303304005-b6b6b6b6-b6b6-b6b6-b6b6-b6b6b6b6b6b6.png)
+![Job Application Tracker Calendar View](https://raw.githubusercontent.com/ozzy2438/Part-A-Docs/main/images/calendar_view.png)
 
 **Özellik Açıklaması:** İş Başvuru Takipçisi'ndeki Takvim Görünümü, kullanıcıların başvuru zaman çizelgelerini görselleştirmelerine olanak tanır. Başvurular, durumlarına göre (Başvuruldu, İnceleniyor, Mülakat vb.) renk kodludur, bu da birden fazla başvuruyu ve mülakatlar veya takipler gibi yaklaşan etkinlikleri takip etmeyi kolaylaştırır.
 
 #### 7. Job Application Tracker - My Applications
-![Job Application Tracker My Applications](https://user-images.githubusercontent.com/157961406/303304006-c7c7c7c7-c7c7-c7c7-c7c7-c7c7c7c7c7c7.png)
+![Job Application Tracker My Applications](https://raw.githubusercontent.com/ozzy2438/Part-A-Docs/main/images/my_applications.png)
 
 **Özellik Açıklaması:** Başvurularım görünümü, tüm iş başvurularının mevcut durumları, başvuru tarihleri ve son güncellemeleriyle birlikte bir listesini sunar. Kullanıcılar başvuruları durumlarına göre filtreleyebilir ve farklı kriterlere göre sıralayabilirler. Her başvuru girişi, başvuru bağlantısını görüntüleme, durumu güncelleme veya girişi silme seçeneklerini içerir.
 
