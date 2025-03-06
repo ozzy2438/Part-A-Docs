@@ -63,43 +63,6 @@ Our platform primarily targets:
 - Goals: Transition to tech industry
 - Frustrations: Complex skill presentation challenges
 
-### Application Screenshots
-
-#### Resume Upload Feature
-<img width="1463" alt="Resume Upload Screen" src="https://github.com/user-attachments/assets/d18b681c-4096-47cd-b219-1d2b265e3e3a" />
-
-**Feature Description:** The Resume Upload screen allows users to easily upload their resume files. The interface provides a simple drag-and-drop area and shows upload status with confirmation when successful. Users can then proceed to see the AI analysis of their resume with a single click.
-
-#### Resume Analysis - Executive Summary
-<img width="1463" alt="Resume Analysis Executive Summary" src="https://github.com/user-attachments/assets/5223a06b-5fc7-4535-ad29-bb4e4e70ce7c" />
-
-**Feature Description:** The Resume Analysis screen provides an AI-generated executive summary of the user's resume. It highlights key qualifications, experience, and skills, with important keywords highlighted in orange for better visibility. This gives users a quick overview of how their resume is perceived by potential employers.
-
-#### Skills Breakdown and Recommendations
-<img width="1463" alt="Skills Breakdown and Recommendations" src="https://github.com/user-attachments/assets/54cd0e8d-5f56-4a6b-a3ea-8acae176abc8" />
-
-**Feature Description:** This section provides a detailed breakdown of the user's skills with proficiency levels (Advanced, Intermediate) clearly indicated. The recommendations panel offers actionable advice for improving the resume, such as adding quantitative achievements and enhancing the skills section with specific technologies.
-
-#### Areas of Improvement and Job Matching
-<img width="1463" alt="Areas of Improvement and Job Matching" src="https://github.com/user-attachments/assets/a63b3c86-3cfe-4e6c-95c3-9176a1f3e6d9" />
-
-**Feature Description:** The platform identifies specific areas where the user can improve their profile, such as software diversity and industry exposure. The Job Matching section shows positions that match the user's profile based on AI analysis, with the ability to view all matching positions or find more matching jobs.
-
-#### Resume Score and Detailed Insights
-<img width="1463" alt="Resume Score and Detailed Insights" src="https://github.com/user-attachments/assets/d18b681c-4096-47cd-b219-1d2b265e3e3a" />
-
-**Feature Description:** The Resume Score provides a quantitative assessment of the resume's effectiveness (shown as 75%). The Detailed Insights section offers a comprehensive professional profile analysis, highlighting the user's background, experience, and technical skills with key achievements and industry fit recommendations.
-
-#### Job Application Tracker - Calendar View
-<img width="1463" alt="Job Application Tracker Calendar View" src="https://github.com/user-attachments/assets/5223a06b-5fc7-4535-ad29-bb4e4e70ce7c" />
-
-**Feature Description:** The Calendar View in the Job Application Tracker allows users to visualize their application timeline. Applications are color-coded by status (Applied, Under Review, Interview, etc.), making it easy to track multiple applications and upcoming events like interviews or follow-ups.
-
-#### Job Application Tracker - My Applications
-<img width="1463" alt="Job Application Tracker My Applications" src="https://github.com/user-attachments/assets/54cd0e8d-5f56-4a6b-a3ea-8acae176abc8" />
-
-**Feature Description:** The My Applications view provides a list of all job applications with their current status, application date, and last update. Users can filter applications by status and sort them by different criteria. Each application entry includes options to view the application link, update status, or delete the entry.
-
 ### Initial User Stories
 
 #### Guest User
@@ -126,6 +89,43 @@ After developing our primary persona, we refined our user stories:
 * As a career changer, I want my resume analyzed by AI so that I can effectively highlight my diverse educational background
 * As a professional with varied experience, I want feedback on how to present my transferable skills from management to tech
 * As a mature student, I want guidance on highlighting my recent tech education alongside my extensive work experience
+
+### Application Screenshots
+
+#### 1. Resume Upload Feature
+![Resume Upload Screen](https://github.com/user-attachments/files/14557359/1.png)
+
+**Özellik Açıklaması:** Özgeçmiş Yükleme ekranı, kullanıcıların özgeçmiş dosyalarını kolayca yüklemelerine olanak tanır. Arayüz, basit bir sürükle-bırak alanı sağlar ve yükleme durumunu başarılı olduğunda onay ile gösterir. Kullanıcılar daha sonra tek bir tıklama ile özgeçmişlerinin yapay zeka analizini görebilirler.
+
+#### 2. Resume Analysis - Executive Summary
+![Resume Analysis Executive Summary](https://github.com/user-attachments/files/14557360/2.png)
+
+**Özellik Açıklaması:** Özgeçmiş Analizi ekranı, kullanıcının özgeçmişinin yapay zeka tarafından oluşturulan yönetici özetini sunar. Daha iyi görünürlük için önemli anahtar kelimeler turuncu renkte vurgulanarak, temel nitelikleri, deneyimleri ve becerileri vurgular. Bu, kullanıcılara özgeçmişlerinin potansiyel işverenler tarafından nasıl algılandığına dair hızlı bir genel bakış sağlar.
+
+#### 3. Skills Breakdown and Recommendations
+![Skills Breakdown and Recommendations](https://github.com/user-attachments/files/14557361/3.png)
+
+**Özellik Açıklaması:** Bu bölüm, kullanıcının becerilerinin yeterlilik seviyeleri (İleri, Orta) açıkça belirtilerek detaylı bir dökümünü sunar. Öneriler paneli, nicel başarılar ekleme ve beceri bölümünü belirli teknolojilerle geliştirme gibi özgeçmişi iyileştirmek için uygulanabilir tavsiyeler sunar.
+
+#### 4. Areas of Improvement and Job Matching
+![Areas of Improvement and Job Matching](https://github.com/user-attachments/files/14557362/4.png)
+
+**Özellik Açıklaması:** Platform, yazılım çeşitliliği ve sektör deneyimi gibi kullanıcının profilini geliştirebileceği belirli alanları tanımlar. İş Eşleştirme bölümü, yapay zeka analizine dayalı olarak kullanıcının profiline uyan pozisyonları gösterir ve tüm eşleşen pozisyonları görüntüleme veya daha fazla eşleşen iş bulma imkanı sunar.
+
+#### 5. Job Matching Detail View
+![Job Matching Detail View](https://github.com/user-attachments/files/14557363/5.png)
+
+**Özellik Açıklaması:** İş Eşleştirme Detay Görünümü, kullanıcının özgeçmişine dayalı olarak eşleşen iş pozisyonlarının ayrıntılı bir listesini sunar. Her iş ilanı, pozisyon başlığı, şirket adı ve konum bilgilerini içerir. Kullanıcılar, "Apply&Track" düğmesini kullanarak doğrudan başvurabilir ve başvurularını platformda takip edebilirler. İş açıklamaları, kullanıcının becerileriyle eşleşen anahtar kelimeleri vurgular.
+
+#### 6. Job Application Tracker - Calendar View
+![Job Application Tracker Calendar View](https://github.com/user-attachments/files/14557364/6.png)
+
+**Özellik Açıklaması:** İş Başvuru Takipçisi'ndeki Takvim Görünümü, kullanıcıların başvuru zaman çizelgelerini görselleştirmelerine olanak tanır. Başvurular, durumlarına göre (Başvuruldu, İnceleniyor, Mülakat vb.) renk kodludur, bu da birden fazla başvuruyu ve mülakatlar veya takipler gibi yaklaşan etkinlikleri takip etmeyi kolaylaştırır.
+
+#### 7. Job Application Tracker - My Applications
+![Job Application Tracker My Applications](https://github.com/user-attachments/files/14557365/7.png)
+
+**Özellik Açıklaması:** Başvurularım görünümü, tüm iş başvurularının mevcut durumları, başvuru tarihleri ve son güncellemeleriyle birlikte bir listesini sunar. Kullanıcılar başvuruları durumlarına göre filtreleyebilir ve farklı kriterlere göre sıralayabilirler. Her başvuru girişi, başvuru bağlantısını görüntüleme, durumu güncelleme veya girişi silme seçeneklerini içerir.
 
 ## Application Architecture
 
