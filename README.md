@@ -58,13 +58,47 @@ Our platform primarily targets:
 
 ### Career Transition Professional - Primary Persona
 
-[Insert screenshot of Osman's persona card here]
-<img width="1463" alt="Screenshot 2025-02-16 at 11 12 35 PM" src="https://github.com/user-attachments/assets/d18b681c-4096-47cd-b219-1d2b265e3e3a" />
-
 **Osman's Profile:**
 - Background: Mechanical Engineering degree, recent IT Web Development
 - Goals: Transition to tech industry
 - Frustrations: Complex skill presentation challenges
+
+### Application Screenshots
+
+#### Resume Upload Feature
+<img width="1463" alt="Resume Upload Screen" src="https://github.com/user-attachments/assets/d18b681c-4096-47cd-b219-1d2b265e3e3a" />
+
+**Feature Description:** The Resume Upload screen allows users to easily upload their resume files. The interface provides a simple drag-and-drop area and shows upload status with confirmation when successful. Users can then proceed to see the AI analysis of their resume with a single click.
+
+#### Resume Analysis - Executive Summary
+<img width="1463" alt="Resume Analysis Executive Summary" src="https://github.com/user-attachments/assets/5223a06b-5fc7-4535-ad29-bb4e4e70ce7c" />
+
+**Feature Description:** The Resume Analysis screen provides an AI-generated executive summary of the user's resume. It highlights key qualifications, experience, and skills, with important keywords highlighted in orange for better visibility. This gives users a quick overview of how their resume is perceived by potential employers.
+
+#### Skills Breakdown and Recommendations
+<img width="1463" alt="Skills Breakdown and Recommendations" src="https://github.com/user-attachments/assets/54cd0e8d-5f56-4a6b-a3ea-8acae176abc8" />
+
+**Feature Description:** This section provides a detailed breakdown of the user's skills with proficiency levels (Advanced, Intermediate) clearly indicated. The recommendations panel offers actionable advice for improving the resume, such as adding quantitative achievements and enhancing the skills section with specific technologies.
+
+#### Areas of Improvement and Job Matching
+<img width="1463" alt="Areas of Improvement and Job Matching" src="https://github.com/user-attachments/assets/a63b3c86-3cfe-4e6c-95c3-9176a1f3e6d9" />
+
+**Feature Description:** The platform identifies specific areas where the user can improve their profile, such as software diversity and industry exposure. The Job Matching section shows positions that match the user's profile based on AI analysis, with the ability to view all matching positions or find more matching jobs.
+
+#### Resume Score and Detailed Insights
+<img width="1463" alt="Resume Score and Detailed Insights" src="https://github.com/user-attachments/assets/d18b681c-4096-47cd-b219-1d2b265e3e3a" />
+
+**Feature Description:** The Resume Score provides a quantitative assessment of the resume's effectiveness (shown as 75%). The Detailed Insights section offers a comprehensive professional profile analysis, highlighting the user's background, experience, and technical skills with key achievements and industry fit recommendations.
+
+#### Job Application Tracker - Calendar View
+<img width="1463" alt="Job Application Tracker Calendar View" src="https://github.com/user-attachments/assets/5223a06b-5fc7-4535-ad29-bb4e4e70ce7c" />
+
+**Feature Description:** The Calendar View in the Job Application Tracker allows users to visualize their application timeline. Applications are color-coded by status (Applied, Under Review, Interview, etc.), making it easy to track multiple applications and upcoming events like interviews or follow-ups.
+
+#### Job Application Tracker - My Applications
+<img width="1463" alt="Job Application Tracker My Applications" src="https://github.com/user-attachments/assets/54cd0e8d-5f56-4a6b-a3ea-8acae176abc8" />
+
+**Feature Description:** The My Applications view provides a list of all job applications with their current status, application date, and last update. Users can filter applications by status and sort them by different criteria. Each application entry includes options to view the application link, update status, or delete the entry.
 
 ### Initial User Stories
 
@@ -87,8 +121,6 @@ Our platform primarily targets:
 ### Refined User Stories
 
 After developing our primary persona, we refined our user stories:
-
-<img width="1137" alt="Screenshot 2025-02-16 at 11 23 23 PM" src="https://github.com/user-attachments/assets/5223a06b-5fc7-4535-ad29-bb4e4e70ce7c" />
 
 #### Career Transition Focus
 * As a career changer, I want my resume analyzed by AI so that I can effectively highlight my diverse educational background
