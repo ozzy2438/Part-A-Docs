@@ -95,37 +95,37 @@ After developing our primary persona, we refined our user stories:
 #### 1. Resume Upload Feature
 ![Resume Upload Screen](https://github.com/ozzy2438/Part-A-Docs/raw/main/images/resume_upload.svg)
 
-**Özellik Açıklaması:** Özgeçmiş Yükleme ekranı, kullanıcıların özgeçmiş dosyalarını kolayca yüklemelerine olanak tanır. Arayüz, basit bir sürükle-bırak alanı sağlar ve yükleme durumunu başarılı olduğunda onay ile gösterir. Kullanıcılar daha sonra tek bir tıklama ile özgeçmişlerinin yapay zeka analizini görebilirler.
+**Feature Description:** The Resume Upload screen allows users to easily upload their resume files. The interface provides a simple drag-and-drop area and displays the upload status with confirmation when successful. Users can then view their AI-powered resume analysis with a single click.
 
 #### 2. Resume Analysis - Executive Summary
 ![Resume Analysis Executive Summary](https://github.com/ozzy2438/Part-A-Docs/raw/main/images/resume_analysis.svg)
 
-**Özellik Açıklaması:** Özgeçmiş Analizi ekranı, kullanıcının özgeçmişinin yapay zeka tarafından oluşturulan yönetici özetini sunar. Daha iyi görünürlük için önemli anahtar kelimeler turuncu renkte vurgulanarak, temel nitelikleri, deneyimleri ve becerileri vurgular. Bu, kullanıcılara özgeçmişlerinin potansiyel işverenler tarafından nasıl algılandığına dair hızlı bir genel bakış sağlar.
+**Feature Description:** The Resume Analysis screen presents an AI-generated executive summary of the user's resume. Key keywords are highlighted in orange for better visibility, emphasizing core qualifications, experiences, and skills. This provides users with a quick overview of how their resume is perceived by potential employers.
 
 #### 3. Skills Breakdown and Recommendations
 ![Skills Breakdown and Recommendations](https://github.com/ozzy2438/Part-A-Docs/raw/main/images/skills_breakdown.svg)
 
-**Özellik Açıklaması:** Bu bölüm, kullanıcının becerilerinin yeterlilik seviyeleri (İleri, Orta) açıkça belirtilerek detaylı bir dökümünü sunar. Öneriler paneli, nicel başarılar ekleme ve beceri bölümünü belirli teknolojilerle geliştirme gibi özgeçmişi iyileştirmek için uygulanabilir tavsiyeler sunar.
+**Feature Description:** This section provides a detailed breakdown of the user's skills with proficiency levels (Advanced, Intermediate) clearly indicated. The recommendations panel offers actionable advice for improving the resume, such as adding quantitative achievements and enhancing the skills section with specific technologies.
 
 #### 4. Areas of Improvement and Job Matching
 ![Areas of Improvement and Job Matching](https://github.com/ozzy2438/Part-A-Docs/raw/main/images/areas_improvement.svg)
 
-**Özellik Açıklaması:** Platform, yazılım çeşitliliği ve sektör deneyimi gibi kullanıcının profilini geliştirebileceği belirli alanları tanımlar. İş Eşleştirme bölümü, yapay zeka analizine dayalı olarak kullanıcının profiline uyan pozisyonları gösterir ve tüm eşleşen pozisyonları görüntüleme veya daha fazla eşleşen iş bulma imkanı sunar.
+**Feature Description:** The platform identifies specific areas where the user can improve their profile, such as software diversity and industry experience. The Job Matching section displays positions that match the user's profile based on AI analysis, with options to view all matching positions or find more matching jobs.
 
 #### 5. Job Matching Detail View
 ![Job Matching Detail View](https://github.com/ozzy2438/Part-A-Docs/raw/main/images/job_matching.svg)
 
-**Özellik Açıklaması:** İş Eşleştirme Detay Görünümü, kullanıcının özgeçmişine dayalı olarak eşleşen iş pozisyonlarının ayrıntılı bir listesini sunar. Her iş ilanı, pozisyon başlığı, şirket adı ve konum bilgilerini içerir. Kullanıcılar, "Apply&Track" düğmesini kullanarak doğrudan başvurabilir ve başvurularını platformda takip edebilirler. İş açıklamaları, kullanıcının becerileriyle eşleşen anahtar kelimeleri vurgular.
+**Feature Description:** The Job Matching Detail View presents a detailed list of job positions that match the user's resume. Each job listing includes the position title, company name, and location information. Users can apply directly using the "Apply&Track" button and track their applications on the platform. Job descriptions highlight keywords that match the user's skills.
 
 #### 6. Job Application Tracker - Calendar View
 ![Job Application Tracker Calendar View](https://github.com/ozzy2438/Part-A-Docs/raw/main/images/calendar_view.svg)
 
-**Özellik Açıklaması:** İş Başvuru Takipçisi'ndeki Takvim Görünümü, kullanıcıların başvuru zaman çizelgelerini görselleştirmelerine olanak tanır. Başvurular, durumlarına göre (Başvuruldu, İnceleniyor, Mülakat vb.) renk kodludur, bu da birden fazla başvuruyu ve mülakatlar veya takipler gibi yaklaşan etkinlikleri takip etmeyi kolaylaştırır.
+**Feature Description:** The Calendar View in the Job Application Tracker allows users to visualize their application timelines. Applications are color-coded by status (Applied, Under Review, Interview, etc.), making it easy to track multiple applications and upcoming events such as interviews or follow-ups.
 
 #### 7. Job Application Tracker - My Applications
 ![Job Application Tracker My Applications](https://github.com/ozzy2438/Part-A-Docs/raw/main/images/my_applications.svg)
 
-**Özellik Açıklaması:** Başvurularım görünümü, tüm iş başvurularının mevcut durumları, başvuru tarihleri ve son güncellemeleriyle birlikte bir listesini sunar. Kullanıcılar başvuruları durumlarına göre filtreleyebilir ve farklı kriterlere göre sıralayabilirler. Her başvuru girişi, başvuru bağlantısını görüntüleme, durumu güncelleme veya girişi silme seçeneklerini içerir.
+**Feature Description:** The My Applications view provides a list of all job applications with their current statuses, application dates, and latest updates. Users can filter applications by status and sort them by different criteria. Each application entry includes options to view the application link, update status, or delete the entry.
 
 ## Application Architecture
 
