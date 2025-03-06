@@ -47,8 +47,8 @@ Our platform primarily targets:
 - JWT Authentication
 
 ### External APIs
-- DeepSeek AI or Opeai for resume analysis(depends on the text style of the resume)
-- Jooble Search API for job recommendations
+- DeepSeek AI for resume analysis
+- Brave Search API for job recommendations
 
 ### Deployment
 - Railway (Backend)
@@ -121,7 +121,7 @@ After developing our primary persona, we refined our user stories:
 
 ![FE74ECC9-1CD2-4470-B01F-225A80FDB977](https://github.com/user-attachments/assets/4e456b16-47b1-412e-8718-4d5185a0564f)
 
-**Feature Description:** The Job Matching Detail View presents a detailed list of job positions that match the user's resume. Each job listing includes the position title, company name, and location information. Users can apply directly using the "apply&Track" button and Track their applications on the platform. Job descriptions highlight keywords that match the user's skills.
+**Feature Description:** The Job Matching Detail View presents a detailed list of job positions that match the user's resume. Each job listing includes the position title, company name, and location information. Users can apply directly using the \"apply&Track\" button and Track their applications on the platform. Job descriptions highlight keywords that match the user's skills.
 
 #### 6. Job Application Tracker - Calendar View
 
