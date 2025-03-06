@@ -47,8 +47,8 @@ Our platform primarily targets:
 - JWT Authentication
 
 ### External APIs
-- DeepSeek AI for resume analysis
-- Brave Search API for job recommendations
+- DeepSeek AI or Opeai for resume analysis(depends on the text style of the resume)
+- Jooble Search API for job recommendations
 
 ### Deployment
 - Railway (Backend)
