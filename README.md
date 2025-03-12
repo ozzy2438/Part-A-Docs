@@ -98,9 +98,12 @@ After developing our primary persona, we refined our user stories:
 
 **Login Interface:** A clean, dark-themed login page with email and password fields, a prominent blue login button, and a "Don't have an account? Sign up" link at the bottom.
 
+![2B0284E3-D900-4C2D-8A90-56F3E31B306E](https://github.com/user-attachments/assets/9407a8ad-81b7-4485-8af4-dd0594ab6055)
+
 ##### Register Page
 
 **Registration Interface:** A matching dark-themed registration form collecting first name, last name, email address, password, and password confirmation fields. Features a blue register button and an "Already have an account? Sign in" link.
+![CE87A0D1-066C-42BE-B6B1-634BF83C7326](https://github.com/user-attachments/assets/d1b6c37f-bc61-4b0c-a4a5-f01d94b9aae8)
 
 **Feature Description:** The authentication system provides a secure and user-friendly interface for users to create accounts and log in to the platform. The login page features a clean design with email and password fields, while the registration page collects essential user information including first name, last name, email, and password with confirmation.
 
