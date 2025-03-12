@@ -96,11 +96,11 @@ After developing our primary persona, we refined our user stories:
 
 ##### Login Page
 
-![Login Page](docs/personas/login-page.jpeg)
+**Login Interface:** A clean, dark-themed login page with email and password fields, a prominent blue login button, and a "Don't have an account? Sign up" link at the bottom.
 
 ##### Register Page
 
-![Register Page](docs/personas/register-page.jpeg)
+**Registration Interface:** A matching dark-themed registration form collecting first name, last name, email address, password, and password confirmation fields. Features a blue register button and an "Already have an account? Sign in" link.
 
 **Feature Description:** The authentication system provides a secure and user-friendly interface for users to create accounts and log in to the platform. The login page features a clean design with email and password fields, while the registration page collects essential user information including first name, last name, email, and password with confirmation.
 
