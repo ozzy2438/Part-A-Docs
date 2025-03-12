@@ -92,6 +92,18 @@ After developing our primary persona, we refined our user stories:
 
 ### Application Screenshots
 
+#### 0. Authentication Pages
+
+##### Login Page
+
+![Login Page](docs/personas/login-page.jpeg)
+
+##### Register Page
+
+![Register Page](docs/personas/register-page.jpeg)
+
+**Feature Description:** The authentication system provides a secure and user-friendly interface for users to create accounts and log in to the platform. The login page features a clean design with email and password fields, while the registration page collects essential user information including first name, last name, email, and password with confirmation.
+
 #### 1. Resume Upload Feature
 
 ![Resume Upload Feature](docs/personas/43A4CD0F-37B1-4C5E-8C78-10A48485458D.jpeg)
