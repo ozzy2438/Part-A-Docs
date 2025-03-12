@@ -94,46 +94,44 @@ After developing our primary persona, we refined our user stories:
 
 #### 1. Resume Upload Feature
 
-![43A4CD0F-37B1-4C5E-8C78-10A48485458D](https://github.com/user-attachments/assets/ef3bd7ad-0c78-456f-bb24-edf82299ad62)
+<img src="https://github.com/user-attachments/assets/ef3bd7ad-0c78-456f-bb24-edf82299ad62/43A4CD0F-37B1-4C5E-8C78-10A48485458D.png" alt="Resume Upload Feature" width="600"/>
 
 **Feature Description:** The Resume Upload screen allows users to easily upload their Resume files. The interface provides a simple drag-and-drop area and displays the upload status with confirmation when successful. users can then view their AI-powered Resume analysis with a single click.
 
 #### 2. Resume Analysis - Executive Summary
 
-![7BC0029F-23CF-4636-B57E-992EB8AF7173](https://github.com/user-attachments/assets/7105aaae-6b32-473d-8dfc-3a3c4575918c)
+<img src="https://github.com/user-attachments/assets/7105aaae-6b32-473d-8dfc-3a3c4575918c/7BC0029F-23CF-4636-B57E-992EB8AF7173.png" alt="Resume Analysis" width="600"/>
 
 **Feature Description:** The Resume Analysis screen presents an AI-generated executive summary of the user's Resume. Key keywords are highlighted in orange for better visibility, emphasizing core qualifications, experiences, and skills. This provides users with a quick overview of how their Resume is perceived by potential employers.
 
 #### 3. Skills Breakdown and Recommendations
-![43FCCBDA-A2D0-4D70-8DFB-802716A18220](https://github.com/user-attachments/assets/371ffbe9-d637-46fa-976e-c08c87a3ce61)
+<img src="https://github.com/user-attachments/assets/371ffbe9-d637-46fa-976e-c08c87a3ce61/43FCCBDA-A2D0-4D70-8DFB-802716A18220.png" alt="Skills Breakdown" width="600"/>
 
-![0AC27EBD-97A3-4654-A32C-0C507BCEFEC2](https://github.com/user-attachments/assets/0afccbb3-3713-4523-84fd-9ac5b71afc25)
+<img src="https://github.com/user-attachments/assets/0afccbb3-3713-4523-84fd-9ac5b71afc25/0AC27EBD-97A3-4654-A32C-0C507BCEFEC2.png" alt="Recommendations" width="600"/>
 
 **Feature Description:** This section provides a detailed breakdown of the user's skills with proficiency levels (Advanced, Intermediate) clearly indicated. The recommendations panel offers actionable advice for improving the resume, such as adding quantitative achievements and enhancing the skills section with specific technologies.
 
 #### 4. Areas of Improvement and Job Matching
 
-![6A0898AD-B2AC-4B6C-BEEC-21F4C91B2149](https://github.com/user-attachments/assets/3a1cd881-dc43-4cae-853f-14492c7d7b2d)
+<img src="https://github.com/user-attachments/assets/3a1cd881-dc43-4cae-853f-14492c7d7b2d/6A0898AD-B2AC-4B6C-BEEC-21F4C91B2149.png" alt="Areas of Improvement" width="600"/>
 
 **Feature Description:** The platform identifies specific areas where the user can improve their profile, such as software diversity and industry experience. The Job Matching section displays positions that match the user's profile based on AI analysis, with options to view all matching positions or find more matching jobs.
 
 #### 5. Job Matching Detail View
 
-![FE74ECC9-1CD2-4470-B01F-225A80FDB977](https://github.com/user-attachments/assets/4e456b16-47b1-412e-8718-4d5185a0564f)
+<img src="https://github.com/user-attachments/assets/4e456b16-47b1-412e-8718-4d5185a0564f/FE74ECC9-1CD2-4470-B01F-225A80FDB977.png" alt="Job Matching Detail" width="600"/>
 
 **Feature Description:** The Job Matching Detail View presents a detailed list of job positions that match the user's resume. Each job listing includes the position title, company name, and location information. Users can apply directly using the "apply&Track" button and Track their applications on the platform. Job descriptions highlight keywords that match the user's skills.
 
 #### 6. Job Application Tracker - Calendar View
 
-![5664CD9F-355A-4CFB-9653-13668184B1E5](https://github.com/user-attachments/assets/649a67f5-b7f2-40ee-91b4-8bb6ea76915a)
+<img src="https://github.com/user-attachments/assets/649a67f5-b7f2-40ee-91b4-8bb6ea76915a/5664CD9F-355A-4CFB-9653-13668184B1E5.png" alt="Calendar View" width="600"/>
 
 **Feature Description:** The Calendar View in the Job Application Tracker allows users to visualize their Application timelines. applications are color-coded by status (Applied, Under Review, Interview, etc.), making it easy to track multiple applications and upcoming events such as interviews or follow-ups.
 
 #### 7. Job Application Tracker - My Applications
 
-![0A577415-EA26-4C02-AB1F-3F7469BC650C](https://github.com/user-attachments/assets/1aee0b97-0d53-4692-bd4d-9179d9ad9239)
-
-
+<img src="https://github.com/user-attachments/assets/1aee0b97-0d53-4692-bd4d-9179d9ad9239/0A577415-EA26-4C02-AB1F-3F7469BC650C.png" alt="My Applications" width="600"/>
 **Feature Description:** The My applications view provides a list of all job applications with their current statuses, application dates, and latest updates. Users can filter applications by status and sort them by different criteria. Each application entry includes options to view the application link, update status, or delete the entry.
 
 ## Application Architecture
